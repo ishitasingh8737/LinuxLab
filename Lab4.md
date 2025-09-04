@@ -167,6 +167,7 @@ chmod o+r file.txt  # Add read for others
 chmod 755 file.sh   # rwxr-xr-x
 chmod 644 file.txt  # rw-r--r--
 ```
+![altext](<./Screenshot 2025-08-31 194740.png>)
 
 ---
 
