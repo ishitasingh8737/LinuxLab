@@ -14,7 +14,7 @@ touch existing.txt
 # Create multiple files at once
 touch file2.txt file3.txt
 ```
-![alttext](./cp.png)
+![alttext](./images/cp.png)
 
 ---
 
@@ -33,7 +33,7 @@ cp -r dir1 dir2
 # Preserve file attributes (timestamps, permissions)
 cp -p source.txt backup.txt
 ```
-![alttext](./touch.png)
+![alttext](./images/touch.png)
 
 ---
 
@@ -49,7 +49,7 @@ mv file.txt /path/to/destination/
 # Move and overwrite without prompt
 mv -f file.txt /destination/
 ```
-![alttext](./cat.png)
+![alttext](./images/cat.png)
 
 ---
 
@@ -68,7 +68,7 @@ rm -r foldername/
 # Force remove without prompt
 rm -rf foldername/
 ```
-![alttext](./rm.png)
+![alttext](./images/rm.png)
 
 ---
 
@@ -143,7 +143,7 @@ ls -l
 # [6] Aug 14 10:00 → Last modified date/time
 # [7] file.txt → File name
 ```
-![alttext](<./ls -l.png>)
+![alttext](<./images/ls -l.png>)
 ---
 
 ### **File Permission Structure**
