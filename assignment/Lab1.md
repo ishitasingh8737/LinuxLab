@@ -397,3 +397,38 @@ ln -s /path/to/original symlinkname
 ```
 
 ---
+
+## Extra Questions:
+### What is the difference between chmod and chown?
+#### chmod (Change Mode)
+
+Purpose: Changes the permissions (read, write, execute) of a file or directory.
+
+Who can use:
+
+1. File owner can change their file’s permissions.
+
+2. Root user can change permissions for any file.
+
+#### chown (Change Owner)
+
+Purpose: Changes the owner or group ownership of a file/directory.
+
+Who can use: Only the root user (or with sudo).
+
+### How do you check current directory and user?
+🔹 To check the current directory
+
+- The command used is pwd (print working directory).
+
+- It displays the absolute path of the directory where the user is currently working.
+
+Example: If you are in the "Documents" folder inside your home directory, pwd will show /home/username/Documents.
+
+🔹 To check the current user
+
+- The command used is whoami.
+
+- It shows the username of the account that is currently logged into the system and executing commands.
+
+Example: If you are logged in as user student, it will display student.
