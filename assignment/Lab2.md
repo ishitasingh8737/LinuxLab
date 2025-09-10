@@ -27,6 +27,7 @@ echo "Color: $color"
 ```
 Which prints each color with the prefix "Color:".
 ### Output 1-
+![alttext](<./Screenshot 2025-09-10 180709.png>)
 ### Code 2-
 ```bash
 #!/bin/bash
@@ -45,6 +46,9 @@ the Bash shell.
 4. `echo "My name is $name and I am $age years old."` → Prints a sentence that uses the variables.
 `$name` and `$age` are expanded to their values.
 ### Output 2-
+```bash
+My name is Ishita and I am 18 years old.
+```
 ## Extra Questions
 #### What is the purpose of #!/bin/bash at the top of a script? 
 That line is called a shebang ( #! ).
