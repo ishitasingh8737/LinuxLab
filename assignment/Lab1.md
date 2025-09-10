@@ -1,4 +1,4 @@
-# LAB2
+# LAB1
 ## Linux Basic Commands
 ## ✅ 1. Navigation Commands
 - pwd – Print Working Directory
