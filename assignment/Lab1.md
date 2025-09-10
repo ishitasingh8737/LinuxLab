@@ -1,4 +1,5 @@
-# Linux Basic Commands
+# LAB2
+## Linux Basic Commands
 ## ✅ 1. Navigation Commands
 - pwd – Print Working Directory
 Shows the current location in the filesystem.
