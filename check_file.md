@@ -41,4 +41,4 @@
 
 - fi — End the outer if (the if [ -e ... ] block).
 
-![image]](<./Screenshot 2025-09-19 110801.png>)
+![image](<./Screenshot 2025-09-19 110801-1.png>)
