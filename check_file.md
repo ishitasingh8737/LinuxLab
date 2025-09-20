@@ -1,4 +1,4 @@
-![image](<./Screenshot 2025-09-19 112830.png>)
+![image](<./Screenshot 2025-09-20 124019.png>)
 
 ### Line by Line Explanation
 - #!/bin/bash — Shebang: tells the OS to run this script with /bin/bash (the Bash shell).
@@ -41,4 +41,4 @@
 
 - fi — End the outer if (the if [ -e ... ] block).
 
-![image](<./Screenshot 2025-09-19 110801-1.png>)
+![image](<./Screenshot 2025-09-20 124001.png>)
