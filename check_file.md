@@ -1,3 +1,6 @@
+## code 
+![image](<./Screenshot 2025-09-20 125009.png>)
+
 ![image](<./Screenshot 2025-09-20 124019.png>)
 
 ### Line by Line Explanation
