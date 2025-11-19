@@ -8,8 +8,8 @@
 ## 📚 Academic Repositories  
 Here are some of my organised college assignments:
 
-- **Linux Lab Assignments** → (link)
-- **C Programming Tasks** → (link)
+- **Linux Lab Assignments** → https://github.com/ishitasingh8737/LinuxLab
+- **C Programming Tasks** → https://github.com/ishitasingh8737/100-days-of-code
 
 ---
 
@@ -31,3 +31,4 @@ Here are some of my organised college assignments:
 ## 📬 Connect With Me
 - Email: your-email
 - GitHub: https://github.com/yourusername
+
