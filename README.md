@@ -29,6 +29,7 @@ Here are some of my organised college assignments:
 ---
 
 ## 📬 Connect With Me
-- Email: your-email
-- GitHub: https://github.com/yourusername
+- Email: ISHITA.21836@stu.upes.ac.in
+- GitHub: https://github.com/ishitasingh8737
+
 
